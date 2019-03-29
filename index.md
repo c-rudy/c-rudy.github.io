@@ -1,6 +1,8 @@
 ---
 title: c-rudy
 layout: post
+project-name: c-rudy
+project-tagline: Software Developer
 ---
 
 
