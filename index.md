@@ -1,6 +1,6 @@
 ---
 title: c-rudy
-subtitle: Software Developer
+layout: post
 ---
 
 
