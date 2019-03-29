@@ -1,3 +1,9 @@
+---
+title: c-rudy
+subtitle: Software Developer
+---
+
+
 # A test of markdown
 
 ## Just a little test
